@@ -1,0 +1,9 @@
+{
+  "id": "antixraybypass",
+  "name": "AntiXRay Bypass",
+  "version": "1.0",
+  "environment": "client",
+  "entrypoints": {
+    "client": ["com.hax0r.antixray.AntiXRayBypass"]
+  }
+}
